@@ -1,7 +1,7 @@
 {
     "version": 2,
     "name": "personal-website-reach",
-    "alias": "rashmiap.me",
+    "alias": "adlerv.com",
     "builds": [
       { 
         "src": "package.json", 
