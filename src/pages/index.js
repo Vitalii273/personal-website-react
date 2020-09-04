@@ -15,7 +15,7 @@ const IndexPage = () => {
           Hi there!
           I am a software developer with experience (FrontEnd – JavaScript, React.js / BackEnd Java, Node.js).
         </p>
-        <DownloadButton href="https://github.com/rashmiap/personal-website-react/raw/master/RashmiAp-Resume.pdf"  download title="Resume">Download Resume</DownloadButton>
+        <DownloadButton href="https://github.com/Vitalii273/personal-website-react/raw/master/Profile.pdf"  download title="Resume">Download Resume</DownloadButton>
       </div>
       {/*<img src={RashSelfIcon} alt="SelfImage"/>*/}
     </UserDescription>

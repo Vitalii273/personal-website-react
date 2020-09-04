@@ -6,7 +6,7 @@ const Footer = ({footerClass}) => (
         <p>
             View site source on{" "}
             <a
-                href="https://github.com/rashmiap/personal-website-react"
+                href="https://github.com/Vitalii273/personal-website-react"
                 target="_blank"
                 rel="noopener noreferrer"
             >
