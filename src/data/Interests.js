@@ -1,15 +1,15 @@
 export default [
     {
         id: 1,
-        name: "Yoga"
+        name: "Thai Boxing"
     },
     {
         id: 2,
-        name: "Cooking"
+        name: "Active"
     },
     {
         id: 3,
-        name: "Fine Arts"
+        name: "High Tech"
     },
     {
         id: 4,

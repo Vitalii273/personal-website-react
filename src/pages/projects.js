@@ -15,7 +15,7 @@ const Projects = () => (
       <TabList>
         <Tab>Professional</Tab>
         <Tab>Personal</Tab>
-        <Tab>Undergrad</Tab>
+        {/*<Tab>Undergrad</Tab>*/}
       </TabList>
 
       <TabPanel>
@@ -32,13 +32,13 @@ const Projects = () => (
           }
         </ProjectsSection>
       </TabPanel>
-      <TabPanel>
-        <ProjectsSection>
-          {
-            gradProjects.map(item => (<ProjectBox key={item.id} info={item} />))
-          }
-        </ProjectsSection>
-      </TabPanel>
+      {/*<TabPanel>*/}
+      {/*  <ProjectsSection>*/}
+      {/*    {*/}
+      {/*      gradProjects.map(item => (<ProjectBox key={item.id} info={item} />))*/}
+      {/*    }*/}
+      {/*  </ProjectsSection>*/}
+      {/*</TabPanel>*/}
     </Tabs>
   </ProjectsWrapper>
   </Layout>

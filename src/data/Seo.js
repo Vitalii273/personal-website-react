@@ -1,29 +1,27 @@
-import favicon from '../assets/images/rash-favicon.png'
+import favicon from '../assets/images/apple-touch-icon.png'
 
 export const aboutWebsite = {
     "@context": "http://schema.org",
     "@type": "WebSite",
-    "url": "http://rashmiap.me",
-    "name": "Rashmi AP | Front-end Engineer, Zoojoobe",
+    "url": "http://adlerv.com",
+    "name": "Vitalii Adler`s Portfolio | Front-end Engineer, Full-stack",
     "author": {
         "@type": "Person",
-        "name": "Rashmi AP"
+        "name": "Adler Vitalii"
     }
 }
 export const siteMeta = {
-    title: 'Rashmi AP | Frontend Developer',
+    title: 'Vitalii Adler`s Portfolio | Software Developer',
     favicon: favicon,
-    author: "Rashmi AP",
-    description: "Hello there, welcome to my portfolio. I am a front end developer, visual artist and an animal lover based out of Bangalore.",
-    copyright: "Rashmi AP, Copyright (c) 2018",
+    author: "Adler Vitalii",
+    description: "Hi there! I am a software developer with experience FrontEnd – JavaScript, React.js / BackEnd Java, Node.js. Based in Israel",
+    copyright: "Adler Vitalii, Copyright (c) 2020",
     keywords: [
-        "Rashmi AP",
-        "ZoojooBE",
+        "Adler Vitalii",
         "frontend engineer",
         "frontend developer",
         "fullstack engineer",
         "web engineer",
-        "bangalore",
         "software engineer",
         "engineer",
         "ui engineer"
