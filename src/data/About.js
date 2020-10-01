@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         title: "Experience",
-        description: "I am a software developer with 3 years of experience. Focused on the front-end development using cutting-edge technologies. Highly motivated team player with \"out of the box\" thinking! Worked in multinational and geographically distributed teams.",
+        description: "Well-qualified Full Stack Developer familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Able to handle any part of the process with ease. Collaborative team player with excellent technical abilities offering 3 years of related experience.",
         path: "/experience"
     },
     {
