@@ -12,8 +12,8 @@ const IndexPage = () => {
     <UserDescription>
       <div>
         <p>
-          Hi there!
-          I am a software developer with experience (FrontEnd – JavaScript, React.js / BackEnd Java, Node.js).
+          Hey there! I`m glad to welcome you on my page!
+          I am a Full Stack Developer with 3 years experience.
         </p>
         <DownloadButton href="https://github.com/Vitalii273/personal-website-react/raw/master/Profile.pdf"  download title="Resume">Download Resume</DownloadButton>
       </div>
